@@ -16,8 +16,6 @@
 - 📊 Currently working on:
   - 🔬 Rice Variety Classification using Microscopic Images
   - 🤖 Bangla Chatbot using LLMs (Hugging Face)
-  - 📈 Social Media Trend Prediction
-  - ⚡ Rural Electricity Load Forecasting
   - 🌧️ Rainfall Prediction using Machine Learning
 - 🧠 Always exploring how to bring AI to real-world use cases in **Bangladesh**
 
@@ -34,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadmaruf&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadmaruf292&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ahadmaruf&show_icons=true&theme=radical" alt="Ahad's GitHub Stats" />
   <br />
@@ -55,7 +53,7 @@
 
 ## 🕹️ Hobbies
 
-- 🎮 Gaming (PC Master Race 👑)
+- 🎮 Gaming
 - 🎬 Watching Movies and Web Series
 - 💬 Learning about AI & Human Behavior
 
@@ -64,9 +62,9 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:ahadmaruf.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahadmaruf292@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahadmaruf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahadmaruf"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ahadmaruf292"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
