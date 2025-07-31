@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Engineer+%7C+Machine+Learning+Enthusiast;Deep+Learning+Researcher+%7C+CSE+Student+@DIU;Loves+AI,+Gaming+%26+Movies&center=true&width=500&height=45&color=0F62FE&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Engineer+%7C+Machine+Learning+Enthusiast;Deep+Learning+Researcher+%7C+CSE+Student+@DIU;Loves+AI,+Gaming+%26+Movies&center=true&width=2000&height=45&color=0F62FE&vCenter=true&pause=1000&size=25" />
 </p>
 
 ---
