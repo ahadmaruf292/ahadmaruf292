@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src=""https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&height=100&lines=👨‍🎓+CSE+Student+@+DIU;🚀+Machine+Learning+%7C+Deep+Learning+Researcher;🧠+Bangla+NLP+%7C+AI+For+Bangladesh;👨‍💻+Currently+Building:+Rice+Classifier%2C+Bangla+Chatbot%2C+Trend+Predictor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&height=100&lines=👨‍🎓+CSE+Student+@+DIU;🚀+Machine+Learning+%7C+Deep+Learning+Researcher;🧠+Bangla+NLP+%7C+AI+For+Bangladesh;👨‍💻+Currently+Building:+Rice+Classifier%2C+Bangla+Chatbot%2C+Trend+Predictor" />
 </p>
 
 ---
