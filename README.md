@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&height=100&lines=👨‍🎓+CSE+Student+@+DIU;🚀+Machine+Learning+%7C+Deep+Learning+Researcher;🧠+Bangla+NLP+%7C+AI+For+Bangladesh;👨‍💻+Currently+Building:+Rice+Classifier%2C+Bangla+Chatbot%2C+Trend+Predictor" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Engineer+%7C+Machine+Learning+Enthusiast;Deep+Learning+Researcher+%7C+CSE+Student+@DIU;Loves+AI,+Gaming+%26+Movies&center=true&width=500&height=45&color=0F62FE&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -32,11 +32,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadmaruf292&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadmaruf292 &theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahadmaruf&show_icons=true&theme=radical" alt="Ahad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahadmaruf292 &show_icons=true&theme=radical" alt="Ahad's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadmaruf&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadmaruf292 &layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 <p align="left">
   <a href="mailto:ahadmaruf292@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahadmaruf/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahadmaruf292"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ahadmaruf"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
